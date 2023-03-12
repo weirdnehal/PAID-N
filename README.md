@@ -50,6 +50,7 @@ This tool is only for educational purpose. If you use this tool for other purpos
 
 ![tumblr_nzyug01FPu1uv0kouo1_400](https://user-images.githubusercontent.com/107056647/216527573-6116b55e-a4e7-43c1-a2a5-aaa7577c672e.gif)
 
+### THIS TOOLS IS PAID. PURCHASE TOOLS PASSWORD TO RUN
 
 ### Contact :
 For Any Help or Suggestions, Contact With Us:
