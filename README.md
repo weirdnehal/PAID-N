@@ -17,7 +17,7 @@
 To remove the old Version:
 ``` shell script
 cd ~
-rm -rf W-NEHAL
+rm -rf PAID-N
 ```
 
 To Install Tool Newly:
@@ -32,8 +32,8 @@ pip install bs4
 pkg install git
 pip install rich
 pip install requests
-git clone https://github.com/weirdnehal/W-NEHAL.git
-cd W-NEHAL
+git clone https://github.com/weirdnehal/PAID-N.git
+cd PAID-N
 chmod +x *
 python NEHAL.py
 ```
