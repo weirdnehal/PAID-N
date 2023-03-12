@@ -11,7 +11,7 @@
 * [+] UID/GMAIL Cloning !
 * [+] Updated maintainence !
 * [+] Easy for beginners !
-* [+] Working W-NEHAL tool for termux & kali linux !
+* [+] Working weirdnehal tool for termux & kali linux !
 
 ### Commands :
 To remove the old Version:
