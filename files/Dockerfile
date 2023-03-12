@@ -17,9 +17,9 @@ FROM debian:latest
 LABEL MAINTAINER="https://github.com/weirdnehal/"
 
 # Working directory
-WORKDIR /W-NEHAL/
+WORKDIR /PAID-N/
 # Add files 
-ADD . /W-NEHAL
+ADD . /PAID-N
 
 # Installing other packages
 RUN apt-get update
@@ -29,10 +29,10 @@ RUN apt-get install --no-install-recommends php -y
 RUN apt-get clean
 
 # Main command
-CMD ["./W-NEHAL.py", "--no-update"]
+CMD ["./NEHAL.py", "--no-update"]
 
 ## Wanna run it own? Try following commnads:
 
-## "sudo docker build . -t weirdnehal/W-NEHAL:latest", "sudo docker run --rm -it weirdnehal/W-NEHAL:latest"
+## "sudo docker build . -t weirdnehal/PAID-N:latest", "sudo docker run --rm -it weirdnehal/PAID-N:latest"
 
-## "sudo docker pull weirdnehal/W-NEHAL", "sudo docker run --rm -it weirdnehal/W-NEHAL"
+## "sudo docker pull weirdnehal/PAID-N", "sudo docker run --rm -it weirdnehal/PAID-N"
