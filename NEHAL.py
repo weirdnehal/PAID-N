@@ -1,3 +1,8 @@
+#Create By: NEHAL AHMED
+#Facebook: nehal.ahmed6
+#GitHub: https://github.com/weirdnehal
+#---------------------------------------------------------------------------#
+
 exec("".join(map(chr,[int("".join(str({':(': 4,
  ':)': 0,
  ':/': 7,
