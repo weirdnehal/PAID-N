@@ -1,7 +1,10 @@
-#Create By: NEHAL AHMED
-#Facebook: nehal.ahmed6
-#GitHub: https://github.com/weirdnehal
-#---------------------------------------------------------------------------#
+# Script       : weirdnehal
+# Author       : Nehal Ahmed
+# Github       : https://github.com/weirdnehal
+# Messenger    : https://m.me/nehal.ahmed6
+# Email        : misterweird10@gmail.com
+# Date         : 12-03-2023
+# Main Language: Python
 
 exec("".join(map(chr,[int("".join(str({':(': 4,
  ':)': 0,
