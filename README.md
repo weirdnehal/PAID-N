@@ -61,7 +61,7 @@ For Any Help or Suggestions, Contact With Us:
 ![Visitor Count](https://profile-counter.glitch.me/weirdnehal/count.svg)
 
 
-### THIS TOOLS IS PAID. PURCHASE TOOLS PASSWORD TO RUN
+### NOTE: THIS TOOLS IS PAID. PURCHASE TOOLS PASSWORD TO RUN
 
 <p align="left">
   <a href="https://github.com/weirdnehal" target="_blank"><img src="https://img.shields.io/badge/Github-weirdnehal-green?style=for-the-badge&logo=github"></a>
