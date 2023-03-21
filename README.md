@@ -41,8 +41,7 @@ cd PAID-N
 chmod +x *
 python NEHAL.py
 ```
-### PROOF :
-![4389366f-f7f7-45fc-b809-c431ed0a5ae9](https://user-images.githubusercontent.com/107056647/224489244-0265a91e-f6b9-449d-8d6f-efb7a394e95d.jpg)
+
 
 ### WARNING :
 
